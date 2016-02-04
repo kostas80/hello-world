@@ -1,2 +1,4 @@
 # hello-world
-my_first_test_project
+
+I'm kostas and i just want to know what a readme file should have!
+Although i think i know.
